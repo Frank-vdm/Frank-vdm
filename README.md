@@ -2,4 +2,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frank-vdm)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-vdm&repo=React-Native-Azure-Iot-Client)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-vdm&repo=react-native-iothub-device)
